@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "Маркеры Артём",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32653" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 7, "marker_name": "Террикон", "marker_category": "Ценностно-смысловые доминанты" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 272580.346960515133105, 4805191.268378717824817 ] ] } },
+{ "type": "Feature", "properties": { "id": 8, "marker_name": "Бывшая шахта", "marker_category": "Ценностно-смысловые доминанты" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 270231.257889602100477, 4805682.862130966968834 ] ] } },
+{ "type": "Feature", "properties": { "id": 9, "marker_name": "Бывшая шахта", "marker_category": "Ценностно-смысловые доминанты" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 265975.950815201329533, 4803817.092296089977026 ] ] } },
+{ "type": "Feature", "properties": { "id": 10, "marker_name": "Аэропорт, пос. Кневичи", "marker_category": "Новая идентичность и точки роста" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 270534.964394405134954, 4808746.683593011461198 ] ] } },
+{ "type": "Feature", "properties": { "id": 1, "marker_name": "Террикон шахты \"Дальневосточная\"", "marker_category": "Визуальные символы и доминанты" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 272571.427693484758493, 4805248.485355574637651 ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "marker_name": "Аэропорт Кневичи", "marker_category": "Визуальные символы и доминанты" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 270443.632888523861766, 4808717.384560708887875 ] ] } },
+{ "type": "Feature", "properties": { "id": 3, "marker_name": "Городской парк", "marker_category": "Места силы" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 271840.140205864794552, 4803333.37109958101064 ] ] } },
+{ "type": "Feature", "properties": { "id": 4, "marker_name": "Аэропорт", "marker_category": "Места силы" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 270384.31876432010904, 4808673.314686697907746 ] ] } },
+{ "type": "Feature", "properties": { "id": 5, "marker_name": "Автовокзал", "marker_category": "Места тревоги" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 270531.573490738286637, 4803902.303010290488601 ] ] } },
+{ "type": "Feature", "properties": { "id": 6, "marker_name": "Рынок", "marker_category": "Места тревоги" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 271391.516260080446955, 4804246.431037794798613 ] ] } }
+]
+}
