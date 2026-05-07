@@ -1,0 +1,2 @@
+# LOCAL_IDENTITY_INTEGRATION_INTO_URBAN_PLANNING_AND_STRATEGIC_DOCUMENTS
+РАЗРАБОТКА МЕТОДИКИ ИНТЕГРАЦИИ ЛОКАЛЬНОЙ ИДЕНТИЧНОСТИ В ГРАДОСТРОИТЕЛЬНЫЕ И СТРАТЕГИЧЕСКИЕ ДОКУМЕНТЫ
